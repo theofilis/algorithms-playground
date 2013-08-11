@@ -1,0 +1,14 @@
+img {
+	height: 450px;
+	display: none;
+	float: left;
+	margin-right: 50px;}
+			
+img#current {
+	display: inline;
+	border: 1px solid red;
+	padding: 10px;}
+		
+article {
+	float: right;
+	width: 500px;}
