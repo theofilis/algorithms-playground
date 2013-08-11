@@ -1,4 +1,4 @@
-algorithms
+Algorithms
 ==========
 
 Implementation of algorithms from CLRS Book
