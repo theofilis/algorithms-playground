@@ -11,7 +11,7 @@ Implementation of algorithms from [CLRS Book](http://www.amazon.com/Introduction
 5.  Knapsack Problem
 6.  Longest Common Subsequence Problem [\(LCS\)](http://en.wikipedia.org/wiki/Longest_common_subsequence_problem) 
 7.  [Matrix Chain Multiplication](http://en.wikipedia.org/wiki/Matrix_chain_multiplication)
-8.  Optimal Binary Tree
+8.  [Optimal Binary Tree](http://www.cs.washington.edu/education/courses/cse326/00wi/handouts/lecture23/sld017.htm)
 9.  Printing Neatly
 10. Shortest Path
 
