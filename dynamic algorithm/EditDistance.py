@@ -7,11 +7,11 @@ def grammar(x, y):
 	n = len(x)
 	m = len(y)
 	cost = {'copy' 	 	: 2,
-					'replace'	: 3,
-					'delete'	: 4,
-					'insert'	: 5,
-					'twiddle'	: 1,
-					'kill'		: 1}
+			'replace'	: 3,
+			'delete'	: 4,
+			'insert'	: 5,
+			'twiddle'	: 1,
+			'kill'		: 1}
 	E = {(0,0):0}	
 	O = {}
 		
