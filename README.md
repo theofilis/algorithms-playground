@@ -1,4 +1,4 @@
-Algorithms
+Algorithms[![Build Status](https://travis-ci.org/theofilis/Algorithms.png)](https://travis-ci.org/theofilis/Algorithms)
 ==========
 
 Implementation of algorithms from [CLRS Book](http://www.amazon.com/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844)
