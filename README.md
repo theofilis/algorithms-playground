@@ -17,3 +17,7 @@ Implementation of algorithms from [CLRS Book](http://www.amazon.com/Introduction
 
 # Requirement
 1. [pygraphviz](http://pygraphviz.github.io/)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/theofilis/algorithms/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
