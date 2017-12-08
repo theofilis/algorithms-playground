@@ -16,4 +16,8 @@ Implementation of algorithms from [CLRS Book](http://www.amazon.com/Introduction
 10. Shortest Path
 
 # Requirement
+
+sudo apt-get install graphviz libgraphviz-dev pkg-config
+
+
 1. [pygraphviz](http://pygraphviz.github.io/)

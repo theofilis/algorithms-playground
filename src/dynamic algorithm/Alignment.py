@@ -24,12 +24,4 @@ def edit(x,y):
 		return E
 		
 	return distance()
-	
-if __name__ == '__main__':
-	x = ' exponential'
-	y = ' polynomial'
-	a = edit(x, y)
-	for i in range(len(x)):
-		for j in range(len(y)):
-			print(a[i,j], end=" ")
-		print()
+
